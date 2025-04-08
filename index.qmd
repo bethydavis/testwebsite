@@ -1,11 +1,9 @@
 ---
-title: "testwebsite"
+title: "Home"
 ---
 
-This is a Quarto website.
+This is a Quarto website. blah blah blah
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+-   Research
 
-```{r}
-1 + 1
-```
+-   Publications
